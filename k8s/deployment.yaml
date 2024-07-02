@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: 058264105440.dkr.ecr.us-east-1.amazonaws.com/teste:latest
+        image: 
         ports:
         - containerPort: 3000
